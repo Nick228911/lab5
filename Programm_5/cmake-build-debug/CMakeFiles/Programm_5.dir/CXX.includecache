@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/burgo/CLionProjects/Programm_5/Buffer.cpp
+iostream
+-
+Buffer.h
+C:/Users/burgo/CLionProjects/Programm_5/Buffer.h
+
+C:/Users/burgo/CLionProjects/Programm_5/Buffer.h
+iostream
+-
+iterator
+-
+initializer_list
+-
+
+C:/Users/burgo/CLionProjects/Programm_5/main.cpp
+iostream
+-
+algorithm
+-
+Buffer.h
+C:/Users/burgo/CLionProjects/Programm_5/Buffer.h
+Buffer.cpp
+C:/Users/burgo/CLionProjects/Programm_5/Buffer.cpp
+
